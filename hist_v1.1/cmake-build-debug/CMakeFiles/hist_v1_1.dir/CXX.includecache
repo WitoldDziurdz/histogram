@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vitia/CLionProjects/hist_v1.1/HistogramHelper.cpp
+iostream
+-
+HistogramHelper.h
+/home/vitia/CLionProjects/hist_v1.1/HistogramHelper.h
+
+/home/vitia/CLionProjects/hist_v1.1/HistogramHelper.h
+
+/home/vitia/CLionProjects/hist_v1.1/ImageHelper.cpp
+iostream
+-
+fstream
+-
+ImageHelper.h
+/home/vitia/CLionProjects/hist_v1.1/ImageHelper.h
+
+/home/vitia/CLionProjects/hist_v1.1/ImageHelper.h
+
+/home/vitia/CLionProjects/hist_v1.1/main.cpp
+iostream
+-
+thread
+-
+mutex
+-
+atomic
+-
+ImageHelper.h
+/home/vitia/CLionProjects/hist_v1.1/ImageHelper.h
+HistogramHelper.h
+/home/vitia/CLionProjects/hist_v1.1/HistogramHelper.h
+
